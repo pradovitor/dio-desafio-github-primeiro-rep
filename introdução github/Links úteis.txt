@@ -1,0 +1,10 @@
+LINKS ÚTEIS
+
+> O que é Git: https://www.atlassian.com/br/git/tutorials/what-is-git
+> Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar: https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/
+> O básico do git: https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git
+> Conheça o Git: https://www.hostgator.com.br/blog/git-o-sistema-de-controle/
+> O que é Github? Veja para que serve a rede social: https://www.techtudo.com.br/listas/2021/05/o-que-e-o-github-veja-para-que-serve-a-rede-social-de-programadores.ghtml
+> O que é git?: https://coodesh.com/blog/dicionario/o-que-e-git/
+> Github: o que é e como usar?: https://blog.geekhunter.com.br/github-o-que-e-como-usar/
+

@@ -1,0 +1,24 @@
+Noções Gerais GitHub
+
+(1) Em suma, o GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de
+ versão (VCS) chamado Git. Ele permite que os desenvolvedores colaborem e façam mudanças 
+em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
+
+(2) Sempre que desenvolvedores criam um novo projeto eles continuam criando atualizações no 
+código base. Mesmo depois de o projeto ser lançado é comum a atualização de versões, correção
+ de bugs, adição de novas ferramentas, etc. O sistema de controle de versão ajuda a acompanhar as 
+mudanças feitas no código base. E mais, ele também registra quem efetuou a mudança e permite a 
+restauração do código removido ou modificado.
+
+Definição GIT
+
+(3) Git é um sistema de controle de versão desenvolvido por Linus Torvalds (o criador do Linux).
+Isso significa que qualquer desenvolvedor numa equipe pode gerenciar o código-fonte e seu histórico
+de mudanças usando ferramentas de linha de comandos de Git – desde que tenha sido concedido o
+ acesso para isso, é claro. Diferentemente dos sistemas de controle de versão centralizados, o Git 
+oferece ramificações de recursos (ou feature branches). Isso significa que cada engenheiro de 
+software na equipe pode separar uma ramificação de recursos que oferece um repositório local 
+isolado para promover mudanças nos códigos. Feature branches não afetam a ramificação principal, 
+que é onde o código original do projeto está localizado. Uma vez que as mudanças tenham sido 
+feitas e o código atualizado está pronto, a ramificação pode ser misturada (num processo de merge) 
+com o master branch. É assim que as mudanças no projeto se tornam efetiva. 
